@@ -1,10 +1,10 @@
-# Mobile Studio Web — project-state and continuity proposal
+# Mobile Studio Web — versioned project state
 
-**Product ID:** DAW; **surface:** separate browser prototype, not automatically equivalent to native Studio Noir. **Status of this document:** proposed in `foundation/project-state-v1`, not merged. Snapshot from `main` at `9ed91453cd7c1eac9d00fedf537822cd8f76650f`; refresh actual HEAD each session.
+**Product ID:** DAW; **surface:** separate browser prototype, not automatically equivalent to native Studio Noir. **Document status:** merged into web `main` via [PR #1](https://github.com/DiligentDesigns/mobile-studio-web/pull/1) at `a1399bb6ee9e137b0d8dec3fbbeb3075e876718a`, after initial source checkpoint `9ed91453cd7c1eac9d00fedf537822cd8f76650f`. Documentation integration does not establish an owner-approved browser release or device test. Refresh actual HEAD each session.
 
 ## Start every new conversation
 
-Read the private [Foundation START_HERE](https://github.com/DiligentDesigns/Software-company-foundation/blob/foundation/continuity-v1/START_HERE.md), the DAW native repository's `PROJECT_STATE.md` proposal, this file, repository `README.md`, current `index.html`, latest commits and test logs. Source claims and behavior must be checked independently; the web and native prototypes have different implementation and release status.
+Read the private [Foundation START_HERE](https://github.com/DiligentDesigns/Software-company-foundation/blob/main/START_HERE.md), the native DAW repository's merged `PROJECT_STATE.md` on `migration/studio-noir-foundation`, this file, repository `README.md`, current `index.html`, latest commits and test logs. Source claims and behavior must be checked independently; the web and native prototypes have different implementation and release status.
 
 ## Source and acceptance
 
